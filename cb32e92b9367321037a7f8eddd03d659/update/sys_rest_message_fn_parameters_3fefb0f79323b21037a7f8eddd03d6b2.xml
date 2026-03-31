@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>set_number</name>
+        <rest_message_function display_value="Get Set Details">e3bf70b79323b21037a7f8eddd03d67b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 12:57:27</sys_created_on>
+        <sys_id>3fefb0f79323b21037a7f8eddd03d6b2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>set_number</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_3fefb0f79323b21037a7f8eddd03d6b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 13:23:16</sys_updated_on>
+        <type>string</type>
+        <value>4563-1</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

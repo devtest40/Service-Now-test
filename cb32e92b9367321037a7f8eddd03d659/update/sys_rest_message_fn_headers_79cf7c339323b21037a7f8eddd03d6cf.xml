@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers">
+    <sys_rest_message_fn_headers action="INSERT_OR_UPDATE">
+        <name>Authorization</name>
+        <rest_message_function display_value="Get Set Details">e3bf70b79323b21037a7f8eddd03d67b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 12:57:27</sys_created_on>
+        <sys_id>79cf7c339323b21037a7f8eddd03d6cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Authorization</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope>
+        <sys_update_name>sys_rest_message_fn_headers_79cf7c339323b21037a7f8eddd03d6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 13:00:48</sys_updated_on>
+        <value>key 634016ccfae3721c21692fed859ac851</value>
+    </sys_rest_message_fn_headers>
+</record_update>

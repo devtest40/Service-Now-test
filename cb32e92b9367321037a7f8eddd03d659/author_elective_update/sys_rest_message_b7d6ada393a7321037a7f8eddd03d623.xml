@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>Rebrickable_API</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://rebrickable.com/api/v3</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 21:10:09</sys_created_on>
+        <sys_id>b7d6ada393a7321037a7f8eddd03d623</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Rebrickable_API</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope>
+        <sys_update_name>sys_rest_message_b7d6ada393a7321037a7f8eddd03d623</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 12:43:15</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</application>
+        <file_path/>
+        <instance_id>062e1b543bdbea548d70e0bf55e45af4</instance_id>
+        <instance_name>dev354816</instance_name>
+        <name>sys_rest_message_b7d6ada393a7321037a7f8eddd03d623</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>Rebrickable_API</name><oauth2_profile/><protocol_name/><rest_endpoint>https://rebrickable.com/api/v3</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-16 21:10:09</sys_created_on><sys_id>b7d6ada393a7321037a7f8eddd03d623</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Rebrickable_API</sys_name><sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package><sys_policy/><sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope><sys_update_name>sys_rest_message_b7d6ada393a7321037a7f8eddd03d623</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-17 12:43:15</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-64774477</payload_hash>
+        <record_name>Rebrickable_API</record_name>
+        <reverted_from/>
+        <source>4732e92b9367321037a7f8eddd03d66e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 12:43:15</sys_created_on>
+        <sys_id>3facf8339323b21037a7f8eddd03d6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cfbd263ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 12:43:15</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>fbacf833b123b21043fc3715a44e08a8</update_guid>
+        <update_guid_history>fbacf833b123b21043fc3715a44e08a8:-64774477,2f4bfc7f11ef72104e7863296e2753b8:-371613026,2659707718ef72102a090242e937c2cc:-64774477,1b1765e3a5a73210171f4a8051664e9c:-1654124333</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 12:49:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>10ee08c1304c478a8c6fdf9cb26b6f24</sys_id>
+        <sys_metadata>b7d6ada393a7321037a7f8eddd03d623</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rebrickable_API</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope>
+        <sys_scope_delete display_value="">890b97a651f947529adde4644cdf4284</sys_scope_delete>
+        <sys_update_name>sys_rest_message_b7d6ada393a7321037a7f8eddd03d623</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_b7d6ada393a7321037a7f8eddd03d623">3facf8339323b21037a7f8eddd03d6a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 12:49:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

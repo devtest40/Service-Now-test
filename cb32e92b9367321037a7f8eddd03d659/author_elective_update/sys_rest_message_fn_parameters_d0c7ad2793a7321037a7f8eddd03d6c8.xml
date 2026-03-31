@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="DELETE">
+        <name>set_number</name>
+        <rest_message_function display_value="Get Set Details">a03769e393a7321037a7f8eddd03d62e</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 21:13:19</sys_created_on>
+        <sys_id>d0c7ad2793a7321037a7f8eddd03d6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set_number</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_d0c7ad2793a7321037a7f8eddd03d6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-16 21:13:19</sys_updated_on>
+        <type>string</type>
+        <value>10258</value>
+    </sys_rest_message_fn_parameters>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</application>
+        <file_path/>
+        <instance_id>062e1b543bdbea548d70e0bf55e45af4</instance_id>
+        <instance_name>dev354816</instance_name>
+        <name>sys_rest_message_fn_parameters_d0c7ad2793a7321037a7f8eddd03d6c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters"><sys_rest_message_fn_parameters action="INSERT_OR_UPDATE"><name>set_number</name><rest_message_function display_value="Get Set Details">a03769e393a7321037a7f8eddd03d62e</rest_message_function><sys_class_name>sys_rest_message_fn_parameters</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-16 21:13:19</sys_created_on><sys_id>d0c7ad2793a7321037a7f8eddd03d6c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>set_number</sys_name><sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package><sys_policy/><sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope><sys_update_name>sys_rest_message_fn_parameters_d0c7ad2793a7321037a7f8eddd03d6c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-16 21:13:19</sys_updated_on><type>string</type><value>10258</value></sys_rest_message_fn_parameters></record_update>]]></payload>
+        <payload_hash>2081925739</payload_hash>
+        <record_name>set_number</record_name>
+        <reverted_from/>
+        <source>4732e92b9367321037a7f8eddd03d66e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 21:13:19</sys_created_on>
+        <sys_id>3dd7616793a7321037a7f8eddd03d684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cf87f04420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-16 21:13:19</sys_updated_on>
+        <type>Variable Substitutions</type>
+        <update_guid>f9d7616767a732109d3622952c782883</update_guid>
+        <update_guid_history>f9d7616767a732109d3622952c782883:2081925739</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 12:43:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_parameters">sys_rest_message_fn_parameters</sys_db_object>
+        <sys_id>401f44971ed84158a549f158e12fa041</sys_id>
+        <sys_metadata>d0c7ad2793a7321037a7f8eddd03d6c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set_number</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_1910971_rebric_0">cb32e92b9367321037a7f8eddd03d659</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">cb32e92b9367321037a7f8eddd03d659</sys_scope>
+        <sys_scope_delete display_value="">890b97a651f947529adde4644cdf4284</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_parameters_d0c7ad2793a7321037a7f8eddd03d6c8</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_parameters_d0c7ad2793a7321037a7f8eddd03d6c8">3dd7616793a7321037a7f8eddd03d684</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 12:43:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
